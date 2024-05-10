@@ -1,0 +1,13 @@
+modules:
+1.open-cv
+2.numpy
+3.face_recognition
+4.csv
+5.datetime
+
+Importing:
+1.import cv2
+2.import numpy as np
+3.import face_recognition
+4.import csv
+5.from datetime import datetime
